@@ -19,16 +19,10 @@ JDI powered by Selenium and has simple integration with Selenium based projects
 - All UI elements has assertions/matchers that powered by Hamcrest and wait expected condition during timeout
 - Easy integration with all modern Automation tools: CI (Jenkins, TC etc.), Logging (Log4j or any other slf4j based logs), Reporting (Allure or Report Portal); Browser/Devices farms (Selenium Grid, Browser Stack, Selenoid etc.), Test Runners (TestNG, JUnit) etc.
 
-<a href='#' target="_blank">Facebook</a>
-
-<a href='https://github.com/jdi-testing/jdi-light' target="_blank">Java Github</a>
-
-<a href='https://github.com/jdi-testing/jdi-light-csharp' target="_blank">C# Github</a>
-
-<a href='https://join.skype.com/u2Cel0MWHkAO' target="_blank">Skype EN</a>
-
-<a href='https://join.skype.com/clvyVvnZvWqc' target="_blank">Skype RU</a>
-
-<a href='#'>Youtube</a>
-
+<a href='#' target="_blank">Facebook</a> | 
+<a href='https://github.com/jdi-testing/jdi-light' target="_blank">Java Github</a> | 
+<a href='https://github.com/jdi-testing/jdi-light-csharp' target="_blank">C# Github</a> | 
+<a href='https://join.skype.com/u2Cel0MWHkAO' target="_blank">Skype EN</a> | 
+<a href='https://join.skype.com/clvyVvnZvWqc' target="_blank">Skype RU</a> | 
+<a href='#'>Youtube</a> | 
 <a href="mailto:roman.iovlev.jdi@gmail.com?Subject=JDI question" target="_blank">Send Mail</a>
