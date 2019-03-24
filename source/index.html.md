@@ -16,11 +16,7 @@ toc_footers:
   - <a href="mailto:roman.iovlev.jdi@gmail.com?Subject=JDI question" target="_blank">Send Mail</a>
 
 includes:
-  - introduction
-  - tutorial
-  - theory
-  - faq
-  - documentation
+  - simple-jdi-examples
 
 search: true
 ---
